@@ -12,7 +12,8 @@ header {
     }
    text-align: center;
    margin: auto;
-   border:solid black medium;   
+   border:solid black medium;
+   padding: 5px;   
 }
 
 img {
